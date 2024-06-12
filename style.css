@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+    height: 50px;
+    width: 150px;
+    display: inline-block;
+    border: 3px solid #b18585;
+}
+
+.lesson {
+    color: red
+}
+
+.first {
+    color:aqua;
+}
+
+.second {
+    color: darkblue;
+}
+
+.third {
+    color:blueviolet;
+}
+
+.fourth {
+    color: crimson;
+}
+
+.fifth {
+    color: cornflowerblue;
+}
