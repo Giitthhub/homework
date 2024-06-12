@@ -18,6 +18,11 @@ th, td {
     border: 3px solid #b18585;
 }
 
+.lesson tr:hover {
+    background-color: lightblue;
+    transition: background-color 0.3s ease;
+}
+
 .lesson {
     color: red
 }
